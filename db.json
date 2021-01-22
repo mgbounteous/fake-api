@@ -50,15 +50,17 @@
       "primary": false
     }
   ],
-  "profile": {
-    "firstname": "Jane",
-    "lastname": "Smith",
-    "email": "jane@nothing.com",
-    "birthdate": {
-      "month": 1,
-      "day": 18,
-      "year": 1980
-    },
-    "gender": "female"
-  }
+  "profile": [
+    {
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "email": "jane@nothing.com",
+      "birthdate": {
+        "month": 1,
+        "day": 18,
+        "year": 1980
+      },
+      "gender": "female"
+    }
+  ]
 }
