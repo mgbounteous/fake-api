@@ -50,7 +50,7 @@
       "primary": false
     }
   ],
-  "profile": [
+  "profile": {
     "firstname": "Jane",
     "lastname": "Smith",
     "email": "jane@nothing.com",
@@ -60,5 +60,5 @@
       "year": 1980
     },
     "gender": "female"
-  ]
+  }
 }
