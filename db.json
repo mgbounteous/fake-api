@@ -29,5 +29,25 @@
       "amount": "$99.00 / 3 months",
       "status": "Shipped"
     }
+  ],
+  addresses: [
+    {
+      "type": "Home",
+      "name": "Fred Wallace",
+      "line1": "123 Easy Street #222",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92001",
+      "primary": true
+    },
+    {
+      "type": "Work",
+      "name": "Fred Wallace",
+      "line1": "555 5th Ave. W.",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92001",
+      "primary": false
+    }
   ]
 }
