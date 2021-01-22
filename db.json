@@ -30,7 +30,7 @@
       "status": "Shipped"
     }
   ],
-  addresses: [
+  "addresses": [
     {
       "type": "Home",
       "name": "Fred Wallace",
