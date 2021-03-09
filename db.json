@@ -53,11 +53,13 @@
   "phones": [
     {
       "type": "Home",
-      "number": "(555) 123-4567"
+      "number": "(555) 123-4567",
+      primary: true
     },
     {
       "type": "Work",
-      "number": "(222) 987-6543"
+      "number": "(222) 987-6543",
+      primary: false
     }
   ],
   "profile": [
