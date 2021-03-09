@@ -50,6 +50,16 @@
       "primary": false
     }
   ],
+  "phones": [
+    {
+      "type": "Home",
+      "number": "(555) 123-4567"
+    },
+    {
+      "type": "Work",
+      "number": "(222) 987-6543"
+    }
+  ],
   "profile": [
     {
       "id": 998,
