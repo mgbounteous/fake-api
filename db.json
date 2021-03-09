@@ -54,12 +54,12 @@
     {
       "type": "Home",
       "number": "(555) 123-4567",
-      primary: true
+      "primary": true
     },
     {
       "type": "Work",
       "number": "(222) 987-6543",
-      primary: false
+      "primary": false
     }
   ],
   "profile": [
