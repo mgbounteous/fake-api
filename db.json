@@ -1,15 +1,5 @@
 
 {
-  "addressTypes": [
-    {
-      "value": "work",
-      "displayName": "Work"
-    },
-    {
-      "value": "home",
-      "displayName": "Home"
-    }
-  ],  
   "status": [
     {
       "planNumber": 440865,
