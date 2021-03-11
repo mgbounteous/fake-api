@@ -32,18 +32,22 @@
   ],
   "addresses": [
     {
+      "id": 1,
       "type": "Home",
       "name": "Fred Wallace",
-      "line1": "123 Easy Street #222",
+      "address1": "123 Easy Street",
+      "address2": "#222",
       "city": "San Diego",
       "state": "CA",
       "zip": "92001",
       "primary": true
     },
     {
+      "id": 2,
       "type": "Work",
       "name": "Fred Wallace",
-      "line1": "555 5th Ave. W.",
+      "address1": "555 5th Ave. W.",
+      "address2": "",
       "city": "San Diego",
       "state": "CA",
       "zip": "92001",
