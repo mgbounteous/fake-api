@@ -62,11 +62,13 @@
   ],
   "phones": [
     {
+      "id": 1,
       "type": "Home",
       "number": "(555) 123-4567",
       "primary": true
     },
     {
+      "id": 2,
       "type": "Work",
       "number": "(222) 987-6543",
       "primary": false
