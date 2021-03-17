@@ -10,7 +10,7 @@
       "cancelPeriod": "within24Hours",
       "class": "gold",
       "term": "3 months",
-      "amount": "99",
+      "amount": "99.00",
       "paidDate": "March 31, 2022",
       "startDate": "January 1, 2020"
     },
@@ -23,7 +23,7 @@
       "cancelPeriod": "after2Months",
       "class": "gold",
       "term": "3 months",
-      "amount": "99",
+      "amount": "99.00",
       "paidDate": "October 6, 2021",
       "startDate": "October 6, 2020",
       "cancellationDate": "January 8, 2021"
@@ -37,7 +37,7 @@
       "cancelPeriod": "after2Months",
       "class": "silver",
       "term": "3 months",
-      "amount": "67",
+      "amount": "67.00",
       "paidDate": "January 31, 2022",
       "cancellationDate": "January 10, 2021",
       "refundedDate": "January 12, 2021",
