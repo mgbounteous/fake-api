@@ -5,16 +5,44 @@
       "id": 440865,
       "planNumber": 440865,
       "product": "MyPlan&trade; Gold",
-      "amount": "$99.00 / 3 month",
-      "status": "Active"
+      "status": "Active",
+      "productMachineName": "gold",
+      "cancelPeriod": "within24Hours",
+      "class": "gold",
+      "term": "3 months",
+      "amount": "99",
+      "paidDate": "March 31, 2022",
+      "startDate": "January 1, 2020"
     },
     {
       "id": 300695,
       "planNumber": 300695,
       "product": "MyPlan&trade; Gold",
-      "amount": "$99.00 / 3 month",
-      "status": "Cancelled"
-    }
+      "status": "Cancelled",
+      "productMachineName": "gold",
+      "cancelPeriod": "after2Months",
+      "class": "gold",
+      "term": "3 months",
+      "amount": "99",
+      "paidDate": "October 6, 2021",
+      "startDate": "October 6, 2020",
+      "cancellationDate": "January 8, 2021",
+    },
+    {
+      "id": 463846,
+      "planNumber": 463846,
+      "product": "MyPlan&trade; Silver",
+      "status": "Refunded",
+      "productMachineName": "silver",
+      "cancelPeriod": "after2Months",
+      "class": "silver",
+      "term": "3 months",
+      "amount": "67",
+      "paidDate": "January 31, 2022",
+      "cancellationDate": "January 10, 2021",
+      "refundedDate": "January 12, 2021",
+      "refundedAmount": "35"
+    },
   ],
   "orders": [
     {
